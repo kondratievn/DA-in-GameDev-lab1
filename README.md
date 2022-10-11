@@ -58,9 +58,10 @@ sheets и google drive.
 
 #### Далее я подготовил проект на Unity, воспроизводящий звуки.
 
-![2022-10-11_16-30-19](https://user-images.githubusercontent.com/113256538/195088623-34e9c0a5-faa9-419a-ae20-20246153f02d.png)
+![2022-10-11_22-49-34](https://user-images.githubusercontent.com/113256538/195164033-ca24e0ca-6a8b-4451-bba4-ccaf5f502a90.png)
 
-![2022-10-11_16-30-42](https://user-images.githubusercontent.com/113256538/195088742-23f6ae99-8149-4e99-899e-d3c867f4de5f.png)
+![2022-10-11_22-50-48](https://user-images.githubusercontent.com/113256538/195164102-6dc7fa6a-ac69-419e-bbeb-a1c4cef4b1ec.png)
+
 
 
 
