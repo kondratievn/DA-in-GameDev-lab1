@@ -149,8 +149,7 @@ public class RollerAgent : Agent
 
 -   После завершения обучения проверим работу модели.
     
-    Uploading видео 1.mp4…
-
+    https://user-images.githubusercontent.com/113256538/198099661-d80beea3-bab6-4c04-ba97-66503a204823.mp4
 
 
     
